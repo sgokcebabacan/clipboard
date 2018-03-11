@@ -1,0 +1,23 @@
+hr.section-title-rule {
+    border-top: 0.1px solid #e0e0e0;
+    width: 250px;
+    margin: 10px auto 30px;
+}
+
+.fullwidth {
+    width: 250px;
+    }
+
+.rounded {
+    border-radius: 15px;
+}
+
+.bosluklu {
+    font-family: Verdana;
+    font-style: bold;
+    letter-spacing: 1.15px;
+}
+
+.fullwidth p {
+    letter-spacing:1px;
+}
